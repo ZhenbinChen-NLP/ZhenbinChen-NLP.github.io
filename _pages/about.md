@@ -15,6 +15,6 @@ I am very fortunate to be advised by [Prof. Zhixin Li](http://www.cs.gxnu.edu.cn
 
 You can find my CV here: [Zhenbin Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:zhenbinchan@gmail.com) / [Github](https://github.com/ZhenbinChen-NLP) / [Wechat](../images/wechat.png) / [知乎](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://www.zhihu.com/people/chen-zhen-bin-88)
+[Email](mailto:zhenbinchan@gmail.com) / [Github](https://github.com/ZhenbinChen-NLP) / [Wechat](../images/wechat.png) / [Zhihu](https://www.zhihu.com/people/chen-zhen-bin-88)
 
 ------
