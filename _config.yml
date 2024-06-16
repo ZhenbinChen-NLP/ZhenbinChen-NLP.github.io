@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zhenbin Chen (陈振彬)"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Guilin, Guangxi"
   employer         : "Guangxi Normal University"
